@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2c0d6bd998c360e4b9cfda5d4e86f34d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefab_Blocks: {fileID: 6280719911338532, guid: 8eb59a2292ef5fb4bb92f66e8cd6ed98, type: 3}
+  - prefab_RedBall: {fileID: 1121711441540627109, guid: afabc52efa33d9742b340f8c9cd5c582, type: 3}
+  - prefab_GreenBall: {fileID: 8386574200705239977, guid: 1ae91f44276727549ad472c0ae51b164, type: 3}
+  - prefab_Coily: {fileID: 6793783096419046460, guid: e049cec1bf45ad041ad049f857378696, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
